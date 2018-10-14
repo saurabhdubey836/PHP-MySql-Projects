@@ -1,0 +1,17 @@
+#view_table
+{
+	border-style:solid;
+	border-color:maroon;
+	width:500px;
+	margin-left:20%;
+	
+}
+#view_table tr
+{
+	background-color:#5989d6;
+}
+h1
+{
+	color:blue;
+	
+}
